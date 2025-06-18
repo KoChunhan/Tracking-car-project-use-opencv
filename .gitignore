@@ -1,0 +1,26 @@
+# CubeMX
+*.ioc
+
+# Keil5
+*.uvoptx
+*.uvgui*
+*.bak
+*.lnp
+*.o
+*.d
+*.axf
+*.map
+*.hex
+*.sct
+*.crf
+*.elf
+*.lst
+*.tmp
+build/
+Objects/
+Listings/
+
+# 通用
+.DS_Store
+Thumbs.db
+*.exe
